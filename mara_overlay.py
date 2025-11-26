@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+
+# This file was exclusively writen by Grok in about 4 hours of my prompt engineering
+# time on the evening of Sunday November 23, 2025 and Tuesday November 25, 2025.
+# The assumption is that Grok used Open Source materials to write its code.
+# More to come on that soon.
 import subprocess
 import json
 import sys
